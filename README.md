@@ -27,7 +27,7 @@ Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve de
 
 ### Ürün Beklentileri
 
-- Ürün trello.com'un basit bir kopyası olacak
+- Ürün [trello.com](https://trello.com/)'un basit bir kopyası olacak
 - Proje her yüklendiğinde yeniden başlayabilir, bilgi saklanması beklenmiyor
 - Ekranda "liste"ler yer alacak
     - Yeni liste eklenebilecek
@@ -67,3 +67,7 @@ Bir react tabanı oluşturarak başlayabilirsiniz. Alternatiflerinizi hatırlatm
 - [darty-react-app](https://github.com/eserozvataf/darty-react-app) gibi bir boilerplate kullanmak,
 
 Ardından bu codebase'i bir git repository'sine aktarmanız, çalışma bitiminde de bu repository adresiyle paylaşmanız gerekecek.
+
+### Lisans
+
+[Apache 2.0](LICENSE) ile lisanslanmıştır.
