@@ -50,6 +50,14 @@ Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve de
 - Kullanıcı girişi, kullanıcı işlemleri
 - Veri saklamak
 
+### Örnek Ekran Görüntüleri
+
+Listeler:
+![Listeler](./images/screenshot-01.png)   
+
+Kart Detayı:
+![Kart Detayı](./images/screenshot-02.png)   
+
 ### Nasıl başlanabilir?
 
 Bir react tabanı oluşturarak başlayabilirsiniz. Alternatiflerinizi hatırlatmak gerekirse:
