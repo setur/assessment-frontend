@@ -6,6 +6,7 @@ Bu değerlendirme işe başvuru sürecindeki adaylar için hazırlanmış olup, 
 
 Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve detayları belirlenmiş projeyi tamamlamanızı beklemekteyiz. Dikkat edebileceğiniz bir diğer husus ise, bizlerin doğru bir değerlendirme yapmamıza yardımcı olacak şekilde iletebileceğiniz en iyi çalışmayı bizlere teslim ediyor olmanız.
 
+
 ### Teknik Beklentiler
 
 - Kullanılacak Teknolojiler:
@@ -24,6 +25,7 @@ Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve de
   - Git üzerinde master, development branchleri ve sürüm taglemelerinin kullanımı
   - Minimum %60 unit testing code coverage
   - Projenin nasıl çalıştırılacağına dair README.md dokümantasyonu
+
 
 ### Ürün Beklentileri
 
@@ -45,10 +47,12 @@ Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve de
     - Kartlara etiket eklenebilecek, değiştirilebilecek ve silinebilecek
 - Bir arama kutusu olacak, kart içeriklerine göre arama yapılabilecek
 
+
 ### Üründe Beklenmeyenler
 
 - Kullanıcı girişi, kullanıcı işlemleri
 - Veri saklamak
+
 
 ### Örnek Ekran Görüntüleri
 
@@ -57,6 +61,7 @@ Listeler:
 
 Kart Detayı:
 ![Kart Detayı](./images/screenshot-02.png)   
+
 
 ### Nasıl başlanabilir?
 
@@ -67,6 +72,12 @@ Bir react tabanı oluşturarak başlayabilirsiniz. Alternatiflerinizi hatırlatm
 - [darty-react-app](https://github.com/eserozvataf/darty-react-app) gibi bir boilerplate kullanmak,
 
 Ardından bu codebase'i bir git repository'sine aktarmanız, çalışma bitiminde de bu repository adresiyle paylaşmanız gerekecek.
+
+
+## Sorularınız
+
+Değerlendirmelerle ilgili sorularınızı [github@setur.com.tr](mailto:github@setur.com.tr) adresine iletebilirsiniz.
+
 
 ### Lisans
 
