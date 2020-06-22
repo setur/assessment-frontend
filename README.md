@@ -56,7 +56,7 @@ Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve de
 
 ### Tasarım Kaynakları
 
-[Zeplin'deki Tasarım Kitimiz](https://zpl.io/2p6nmkE)   
+- [Zeplin'deki Tasarım Kitimiz](https://zpl.io/2p6nmkE)
 
 
 ### Nasıl başlanabilir?
