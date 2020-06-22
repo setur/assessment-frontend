@@ -18,8 +18,8 @@ Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve de
 
 - Kısıtlamalar ve Gereksinimler:
   - Görseller için vektörel dosya formatları kullanmak
-  - ES Modules kullanımı
   - React'da yalnızca Functional componentler kullanmak
+  - Tasarım Kaynakları bölümündeki tasarım dilini ve öğelerini kullanmak
   - Atomic design prensipleri uygulamak
   - Projenin sık commitlerle Git üzerinde geliştirilmesi
   - Git üzerinde master, development branchleri ve sürüm taglemelerinin kullanımı
@@ -54,13 +54,9 @@ Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve de
 - Veri saklamak
 
 
-### Örnek Ekran Görüntüleri
+### Tasarım Kaynakları
 
-Listeler:
-![Listeler](./images/screenshot-01.png)   
-
-Kart Detayı:
-![Kart Detayı](./images/screenshot-02.png)   
+![Zeplin'deki Tasarım Kitimiz](https://zpl.io/2p6nmkE)   
 
 
 ### Nasıl başlanabilir?
