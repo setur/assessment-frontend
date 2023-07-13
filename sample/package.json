@@ -9,11 +9,11 @@
     "eslint-plugin-promise": "^4.2.1",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.10",
-    "node-sass": "^4.14.1",
+    "node-sass": "^9.0.0",
     "react": "^16.13.1",
     "react-beautiful-dnd": "^13.0.0",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "uuid": "^8.1.0"
   },
   "scripts": {
